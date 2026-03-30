@@ -36,7 +36,7 @@ yarn-error.*
 .env.development
 .env.production
 .env*.local
-!.env.example
+.env.example
 
 # secrets & credentials
 *.secret
